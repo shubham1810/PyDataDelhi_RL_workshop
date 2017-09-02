@@ -1,3 +1,7 @@
+# Deep Reinforcement Learning: A Hands-on introduction
+
+Worksop for PyData Delhi 2017. Slides can be found at: https://slides.com/shubhamdokania/drl-pydata17/
+
 # Installation Dependencies for Flappy Bird:
 
 * Python 2.7
